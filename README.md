@@ -7,7 +7,7 @@ PySpark, AWS, and Postgres were used to analyze Amazon reviews for Office Produc
 
 ## Results : 
 
-### Deliverable 1 : Perform ETL on Amazon Product Reviews
+### Perform ETL on Amazon Product Reviews
 
 ![Customer_table](https://github.com/raajasrini/Amazon_Vine_Analysis/blob/main/images/2.png)
 
