@@ -41,3 +41,7 @@ PySpark, AWS, and Postgres were used to analyze Amazon reviews for Office Produc
 
 ![Reviews Screen Shot](https://github.com/raajasrini/Amazon_Vine_Analysis/blob/main/images/d25.png)
 
+## Summary :
+Comparing the percentage of reviews that were 5 stars from both Amazon Vine members and not Amazon Vine members, it can be concluded that there is no positivity bias for reviews of Office Products in the Vine program. The percentage of five-star reviews from both groups are nearly the same, rounded to 44%. A similar analysis could be conducted to compare the one-star or low reviews from both Vine and non-Vine members to further support this conclusion.
+
+
